@@ -27,3 +27,5 @@ How to use it is very easy, for example if you want to use the Monokai color the
 Example:
 
 ```$ cp ~/Dermstyle/Theme_Colors/Monokai/colors.properties ~/.termux/```
+
+After moving or copying the "colors.properties" file, please restart the Termux application.
