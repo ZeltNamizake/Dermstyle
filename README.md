@@ -29,3 +29,10 @@ Example:
 ```$ cp ~/Dermstyle/Theme_Colors/Monokai/colors.properties ~/.termux/```
 
 After moving or copying the "colors.properties" file, please restart the Termux application.
+
+# How to set default color theme?
+Setting the default color theme is easy; simply delete the "colors.properties" file. Here's how to remove a custom color theme.
+
+```$ rm -rf ~/.termux/colors.properties```
+
+After remove the "colors.properties" file, please restart the Termux application.
