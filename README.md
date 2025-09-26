@@ -12,23 +12,17 @@ If there is no ".termux" folder in the home directory, please create it by doing
 # Available Themes
 Following are the custom color themes available
 
- * Monokai
-   <p align="center"><img src="https://raw.githubusercontent.com/ZeltNamizake/Dermstyle/refs/heads/main/Theme_Colors/Monokai/Screenshot_20250924-162611_Termux.jpg"></p>
+## Preview Themes
 
- * Bluezard
-   <p align="center"><img src="https://raw.githubusercontent.com/ZeltNamizake/Dermstyle/refs/heads/main/Theme_Colors/Bluezard/Screenshot_20250924-162711_Termux.jpg"></p>
+| Theme     | Preview |
+|-----------|---------|
+| Bluezard  | [Preview](./Theme_Colors/Bluezard/bluezard.jpg) |
+| Gruvbox   | [Preview](./Theme_Colors/Gruvbox/gruvbox.jpg) |
+| Kiyodark  | [Preview](./Theme_Colors/Kiyodark/kiyodark.jpg) |
+| LuminaCode| [Preview](./Theme_Colors/LuminaCode/luminacode.jpg) |
+| Monokai   | [Preview](./Theme_Colors/Monokai/monokai.jpg) |
+| Twilight  | [Preview](./Theme_Colors/Twilight/twilight.jpg) |
 
- * Kiyodark
-   <p align="center"><img src="https://raw.githubusercontent.com/ZeltNamizake/Dermstyle/refs/heads/main/Theme_Colors/Kiyodark/Screenshot_20250924-162450_Termux.jpg"></p>
-
- * Twilight
-   <p align="center"><img src="https://raw.githubusercontent.com/ZeltNamizake/Dermstyle/refs/heads/main/Theme_Colors/Twilight/Screenshot_20250926-112229_Termux.jpg"></p>
-
- * LuminaCode
-   <p align="center"><img src="https://raw.githubusercontent.com/ZeltNamizake/Dermstyle/refs/heads/main/Theme_Colors/LuminaCode/Screenshot_20250926-112255_Termux.jpg"></p>
-
- * Gruvbox
-   <p align="center"><img src="https://raw.githubusercontent.com/ZeltNamizake/Dermstyle/refs/heads/main/Theme_Colors/Gruvbox/Screenshot_20250926-112141_Termux.jpg"></p>
 
 # How to use?
 How to use it is very easy, for example if you want to use the Monokai color theme, you only need to move or copy the "colors.properties" file to the home directory ".termux"
