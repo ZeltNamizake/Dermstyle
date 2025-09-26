@@ -21,6 +21,15 @@ Following are the custom color themes available
  * Kiyodark
    <p align="center"><img src="https://raw.githubusercontent.com/ZeltNamizake/Dermstyle/refs/heads/main/Theme_Colors/Kiyodark/Screenshot_20250924-162450_Termux.jpg"></p>
 
+ * Twilight
+   <p align="center"><img src="https://raw.githubusercontent.com/ZeltNamizake/Dermstyle/refs/heads/main/Theme_Colors/Twilight/Screenshot_20250926-112229_Termux.jpg"></p>
+
+ * LuminaCode
+   <p align="center"><img src="https://raw.githubusercontent.com/ZeltNamizake/Dermstyle/refs/heads/main/Theme_Colors/LuminaCode/Screenshot_20250926-112255_Termux.jpg"></p>
+
+ * Gruvbox
+   <p align="center"><img src="https://raw.githubusercontent.com/ZeltNamizake/Dermstyle/refs/heads/main/Theme_Colors/Gruvbox/Screenshot_20250926-112141_Termux.jpg"></p>
+
 # How to use?
 How to use it is very easy, for example if you want to use the Monokai color theme, you only need to move or copy the "colors.properties" file to the home directory ".termux"
 
