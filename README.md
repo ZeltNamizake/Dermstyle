@@ -12,16 +12,47 @@ If there is no ".termux" folder in the home directory, please create it by doing
 # Available Themes
 Following are the custom color themes available
 
-## Preview Themes
+<details>
+  <summary>Bluezard</summary>
+  
+  ![Bluezard](./Theme_Colors/Bluezard/bluezard.jpg)
+  - colors.properties is available at [Bluezard/colors.properties](./Theme_Colors/Bluezard/colors.properties)
+</details>
 
-| Theme     | Preview |
-|-----------|---------|
-| Bluezard  | [Preview](./Theme_Colors/Bluezard/bluezard.jpg) |
-| Gruvbox   | [Preview](./Theme_Colors/Gruvbox/gruvbox.jpg) |
-| Kiyodark  | [Preview](./Theme_Colors/Kiyodark/kiyodark.jpg) |
-| LuminaCode| [Preview](./Theme_Colors/LuminaCode/luminacode.jpg) |
-| Monokai   | [Preview](./Theme_Colors/Monokai/monokai.jpg) |
-| Twilight  | [Preview](./Theme_Colors/Twilight/twilight.jpg) |
+<details>
+  <summary>Gruvbox</summary>
+
+  ![Gruvbox](./Theme_Colors/Gruvbox/gruvbox.jpg)
+  - colors.properties is available at [Gruvbox/colors.properties](./Theme_Colors/Gruvbox/colors.properties)
+</details>
+
+<details>
+  <summary>Kiyodark</summary>
+
+  ![Kiyodark](./Theme_Colors/Kiyodark/kiyodark.jpg)
+  - colors.properties is available at [Kiyodark/colors.properties](./Theme_Colors/Kiyodark/colors.properties)
+</details>
+
+<details>
+  <summary>LuminaCode</summary>
+
+  ![LuminaCode](./Theme_Colors/LuminaCode/luminacode.jpg)
+  - colors.properties is available at [LuminaCode/colors.properties](./Theme_Colors/LuminaCode/colors.properties)
+</details>
+
+<details>
+  <summary>Mononkai</summary>
+  
+  ![LuminaCode](./Theme_Colors/Monokai/monokai.jpg)
+  - colors.properties is available at [Monokai/colors.properties](./Theme_Colors/Monokai/colors.properties)
+</details>
+
+<details>
+  <summary>Twilight</summary>
+
+  ![Twilight](./Theme_Colors/Twilight/twilight.jpg)
+  - colors.properties is available at [Twilight/colors.properties](./Theme_Colors/Twilight/colors.properties)
+</details>
 
 
 # How to use?
